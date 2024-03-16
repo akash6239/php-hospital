@@ -1,0 +1,22 @@
+body{
+    background-image: url('Img/hospital_back.jpg');
+    background-size: cover;
+    width: 100%;
+    /* background-color: aquamarine; */
+}
+.form_container{
+    background-color: rgba(255, 255, 255, 0.686);
+    border-radius: 20px 20px 0 0;
+    padding-top: 10px;
+    backdrop-filter: blur(4px);
+}
+.login_form{
+    background-color: rgba(255, 255, 255, 0.686);
+    border-radius: 20px;
+    padding: 20px;
+    backdrop-filter: blur(4px);
+    width: 50%;
+}
+.signupdiv{
+    width: 20%;
+}
